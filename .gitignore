@@ -65,3 +65,4 @@ build/
 build/ 
 examples/arrestedClusters
 examples/crystallization
+uv.lock
